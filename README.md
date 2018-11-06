@@ -16,3 +16,5 @@
 4.Install Unity using gdebi:
 
 	$ sudo gdebi unity-editor_amd64-2017.2.0xb6Linux.deb
+Now, search your computer for "Unity" icon and click to lauch unity.
+
