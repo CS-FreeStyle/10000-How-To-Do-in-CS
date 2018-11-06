@@ -1,4 +1,4 @@
-# 10 000 How-To-Do
+# 10 000 How-To-Do in CS
 ## How to install Unity on Ubuntu16.04?
 
 1.Install dependences:
