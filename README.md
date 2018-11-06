@@ -1,4 +1,4 @@
-# Issues-10 000 how to do in CS
+# 10 000 How To Do for CS Major Students
 ## How to install Unity on Ubuntu16.04?
 
 1.Install dependences:
