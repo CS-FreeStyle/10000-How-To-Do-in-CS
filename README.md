@@ -1,7 +1,7 @@
 # 10 000 How-To-Do in CS
 # Contents:
-- [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04?)
-- [How to check Nvidia graphics card utilization?](#user-content-How-to-check-Nvidia-graphic-card-utilization?)
+- [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04-?)
+- [How to check Nvidia graphics card utilization?](#user-content-How-to-check-Nvidia-graphic-card-utilization-?)
 
 ## How to install Unity on Ubuntu16.04?
 
