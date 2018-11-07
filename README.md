@@ -1,5 +1,5 @@
 # 10 000 How-To-Do in CS
-Welcome to contribute to this repository! Since editing the format of this file takes some time, you can also contribute by submit an issue with problem and solution.
+Welcome to contribute to this repository! Since editing this file would take some time(ajusting the format), you can also contribute by submitting an issue with problem and solution.
 
 # Contents:
 - [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04)
