@@ -1,4 +1,6 @@
 # 10 000 How-To-Do in CS
+Welcome to contribute to this repository! Since editing the format of this file takes some time, you can also contribute by submit an issue with problem and solution.
+
 # Contents:
 - [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04)
 - [How to check Nvidia graphics card utilization](#user-content-How-to-check-Nvidia-graphic-card-utilization)
