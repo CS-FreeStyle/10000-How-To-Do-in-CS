@@ -1,7 +1,7 @@
 # 10 000 How-To-Do in CS
 # Contents:
 - [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04?)
-
+- [How to check Nvidia graphics card utilization?](#user-content-How-to-check-Nvidia-graphic-card-utilization?)
 
 ## How to install Unity on Ubuntu16.04?
 
@@ -22,3 +22,6 @@
 	$ sudo gdebi unity-editor_amd64-2017.2.0xb6Linux.deb
 Now, search your computer for "Unity" icon and click to lauch unity.
 
+## How to check Nvidia graphic card utilization?
+	$ nvidia-smi
+	$ watch -n 1 nvidia-smi
