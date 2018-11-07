@@ -4,6 +4,7 @@ Welcome to contribute to this repository! Since editing this file would take som
 # Contents:
 - [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04)
 - [How to check Nvidia graphics card utilization](#user-content-How-to-check-Nvidia-graphic-card-utilization)
+- [libGLU.so.1](#user-content-libGLU.so.1)
 
 ## How to install Unity on Ubuntu16.04?
 
@@ -27,3 +28,7 @@ Now, search your computer for "Unity" icon and click to lauch unity.
 ## How to check Nvidia graphic card utilization?
 	$ nvidia-smi
 	$ watch -n 1 nvidia-smi
+	
+## libGLU.so.1
+Problem: error while loading shared libraries: libGLU.so.1?	
+	$sudo apt-get install libglu1-mesa:i386
