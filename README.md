@@ -30,5 +30,5 @@ Now, search your computer for "Unity" icon and click to lauch unity.
 	$ watch -n 1 nvidia-smi
 	
 ## libGLU.so.1
-Problem: error while loading shared libraries: libGLU.so.1?	
-	$sudo apt-get install libglu1-mesa:i386
+Problem: error while loading shared libraries: libGLU.so.1?
+	$ sudo apt-get install libglu1-mesa:i386
