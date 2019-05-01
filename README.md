@@ -2,9 +2,10 @@
 Welcome to contribute to this repository! Since editing this file would take some time(ajusting the format), you can also contribute by submitting an issue with problem and solution.
 
 # Contents:
-- [How to install Unity on Ubuntu16.04](#user-content-How-to-install-Unity-on-Ubuntu16.04)
-- [How to check Nvidia graphics card utilization](#user-content-How-to-check-Nvidia-graphic-card-utilization)
-- [libGLU.so.1](#user-content-libGLU.so.1)
+- [How to install Unity on Ubuntu16.04](#how-to-install-unity-on-ubuntu1604)
+- [How to check Nvidia graphics card utilization](#how-to-check-nvidia-graphic-card-utilization)
+- [libGLU.so.1](#libgluso1)
+- [Extract ISO file](#how-to-extract-iso-files-on-linux)
 
 ## How to install Unity on Ubuntu16.04?
 
@@ -33,3 +34,9 @@ Now, search your computer for "Unity" icon and click to lauch unity.
 Problem: error while loading shared libraries: libGLU.so.1?
 
 	$ sudo apt-get install libglu1-mesa:i386
+
+## How to extract ISO files on Linux?
+
+1. We can use 7z to decompress a iso file.
+
+2. We can use this command: `cmake -E tar xf filename.iso`
