@@ -40,3 +40,18 @@ Problem: error while loading shared libraries: libGLU.so.1?
 1. We can use 7z to decompress a iso file.
 
 2. We can use this command: `cmake -E tar xf filename.iso`
+
+3. Use FUSE
+
+Mounting
+To mount an image:
+
+$ fuseiso image directory
+The destination mount point must be writable and have no other mounted files or devices to it.
+
+Run fuseiso -h for all the available options.
+
+Unmounting
+To unmount the image:
+
+$ fusermount -u directory
