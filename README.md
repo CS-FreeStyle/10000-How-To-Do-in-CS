@@ -46,7 +46,8 @@ Problem: error while loading shared libraries: libGLU.so.1?
 Mounting
 To mount an image:
 
-$ fuseiso image directory
+`$ fuseiso image directory`
+
 The destination mount point must be writable and have no other mounted files or devices to it.
 
 Run fuseiso -h for all the available options.
@@ -54,4 +55,4 @@ Run fuseiso -h for all the available options.
 Unmounting
 To unmount the image:
 
-$ fusermount -u directory
+`$ fusermount -u directory`
